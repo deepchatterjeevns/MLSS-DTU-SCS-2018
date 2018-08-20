@@ -11,3 +11,5 @@ List of Courses:
 * MON, August 20:  
 [1a-Introduction_to_Scikit-learn_Ecosystem ](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1a-Introduction_to_Scikit-learn_Ecosystem%20) (Lecturer: [Philip Havemann Jorgensen](https://www.dtu.dk/english/service/phonebook/person?id=70543&tab=3&qt=dtuprojectquery), PhD researcher at DTU)  
 [1b-Introduction_to_Auto-Sklearn](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1b-Introduction_to_Auto-Sklearn) (Lecturer: [Franciszek Olaf Zdyb](https://www.compute.dtu.dk/english/research/cogsys/research/phd-projects/phd-franciszek-olaf-zdyb), PhD researcher at DTU)	
+
+* TUE, August 21:  
