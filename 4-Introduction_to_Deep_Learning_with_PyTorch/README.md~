@@ -6,6 +6,6 @@ Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/)
 [PyTorch tutorial](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch/pytorch-tutorial) course is taken from [GitHub](https://github.com/munkai/pytorch-tutorial) page of the course following the instructions [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/owinther.pdf).  
 
 [PyTorch](https://pytorch.org/) can be installed via:  
-* ~conda install pytorch torchvision cuda80 -c pytorch~ (OS Linux, for Python 3.6 with CUDA 8.0)  
-* ~conda install pytorch torchvision -c pytorch~ (OS Linux, for Python 3.6 with CUDA 9.0)  
+* *conda install pytorch torchvision cuda80 -c pytorch* (OS Linux, for Python 3.6 with CUDA 8.0)  
+* *conda install pytorch torchvision -c pytorch* (OS Linux, for Python 3.6 with CUDA 9.0)  
 
