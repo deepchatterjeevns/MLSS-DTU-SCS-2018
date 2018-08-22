@@ -9,20 +9,20 @@ The summer school took place August 20-24, 2018 at the Section for Cognitive Sys
 List of Courses:
 
 * MON, August 20:  
-[1a-Introduction_to_Scikit-learn_Ecosystem ](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1a-Introduction_to_Scikit-learn_Ecosystem%20) (Lecturer: [Philip Havemann Jorgensen](https://www.dtu.dk/english/service/phonebook/person?id=70543&tab=3&qt=dtuprojectquery), PhD researcher at DTU)  
-[1b-Introduction_to_Auto-Sklearn](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1b-Introduction_to_Auto-Sklearn) (Lecturer: [Franciszek Olaf Zdyb](https://www.compute.dtu.dk/english/research/cogsys/research/phd-projects/phd-franciszek-olaf-zdyb), PhD researcher at DTU)	
+[1a Introduction to Scikit-learn Ecosystem ](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1a-Introduction_to_Scikit-learn_Ecosystem%20) (Lecturer: [Philip Havemann Jorgensen](https://www.dtu.dk/english/service/phonebook/person?id=70543&tab=3&qt=dtuprojectquery), PhD researcher at DTU)  
+[1b Introduction to Auto-Sklearn](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/1b-Introduction_to_Auto-Sklearn) (Lecturer: [Franciszek Olaf Zdyb](https://www.compute.dtu.dk/english/research/cogsys/research/phd-projects/phd-franciszek-olaf-zdyb), PhD researcher at DTU)	
 
 * TUE, August 21:  
-[Introduction to PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/2-Introduction_to_PyTorch) (Lecturer: [Adam Paszke](https://scholar.google.com/citations?user=LkVtZkQAAAAJ&hl=en))
+[2 Introduction to PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/2-Introduction_to_PyTorch) (Lecturer: [Adam Paszke](https://scholar.google.com/citations?user=LkVtZkQAAAAJ&hl=en))
 
 * WED, August 22:  
-[Introduction to PyStan](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/3-Introduction_to_PyStan) (Lecturer: [Aki Vehtari](https://users.aalto.fi/~ave/))
+[3 Introduction to PyStan](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/3-Introduction_to_PyStan) (Lecturer: [Prof. Aki Vehtari](https://users.aalto.fi/~ave/))
 
 * THU, August 23:  
-[Introduction to Deep_Learning with PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch) (Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/))
+[4 Introduction to Deep_Learning with PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch) (Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/))
 
 * FRI, August 24:  
-[Diffeomorphisms for Dummies and Augmentations for Awesommies](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20) (Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/))  
-[Stochastic Variational Inference](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5b-Stochastic_Variational_Inference) (Lecturer: [Rasmus Bonnevie](http://www2.compute.dtu.dk/~rabo/))
+[5a Diffeomorphisms for Dummies and Augmentations for Awesommies](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20) (Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/))  
+[5b Stochastic Variational Inference](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5b-Stochastic_Variational_Inference) (Lecturer: [Rasmus Bonnevie](http://www2.compute.dtu.dk/~rabo/))
 
 #### Special thank to one of the organizer [Morten Mørup](http://www.mortenmorup.dk/), Associate Professor, Ph.D at DTU.
