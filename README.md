@@ -14,4 +14,4 @@ List of Courses:
 
 * TUE, August 21:  
 
-## Special thank to one of the organizer [Morten Mørup](http://www.mortenmorup.dk/), Associate Professor, Ph.D at DTU.
+### Special thank to one of the organizer [Morten Mørup](http://www.mortenmorup.dk/), Associate Professor, Ph.D at DTU.
