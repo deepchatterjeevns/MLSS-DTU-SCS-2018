@@ -22,5 +22,5 @@ It is taken from [GitHub](https://github.com/avehtari/BDA_py_demos) page of the 
 * [Stan case studies](http://mc-stan.org/users/documentation/case-studies.html)  
 * [StanCon contributed talks with notebooks](https://github.com/stan-dev/stancon_talks)  
 
-[Run Python and R in the same notebook with reticulate?](https://github.com/rstudio/reticulate)  
+[Run Python and R](https://github.com/rstudio/reticulate) in the same notebook with reticulate?  
 
