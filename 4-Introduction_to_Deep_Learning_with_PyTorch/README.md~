@@ -12,5 +12,3 @@ Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/)
 * OS Linux, Python 3.6, CUDA 9.0:  
   * *conda install pytorch torchvision -c pytorch*  
 
-Useful playground: [A Neural Network Playground](https://playground.tensorflow.org)
-
