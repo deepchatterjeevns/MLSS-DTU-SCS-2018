@@ -1,6 +1,6 @@
 # Introduction to PyTorch
 
-Lecturer: [Adam Paszke](https://scholar.google.com/citations?user=LkVtZkQAAAAJ&hl=en)  
+Lecturer: [Adam Paszke](https://github.com/apaszke?tab=repositories), Student at Univeristy of Warsaw
 
 Slides [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/2-Introduction_to_PyTorch/slides.pdf).
 
