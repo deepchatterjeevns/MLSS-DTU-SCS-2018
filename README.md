@@ -19,10 +19,10 @@ List of Courses:
 [3 Introduction to PyStan](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/3-Introduction_to_PyStan) (Lecturer: [Prof. Aki Vehtari](https://users.aalto.fi/~ave/), Associate professor at Aalto University, Visiting professor at DTU)  
 
 * THU, August 23:  
-[4 Introduction to Deep_Learning with PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch) (Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys) at DTU)  
+[4 Introduction to Deep_Learning with PyTorch](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch) (Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys), DTU)  
 
 * FRI, August 24:  
-[5a Diffeomorphisms for Dummies and Augmentations for Awesommies](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20) (Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/), Associate professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys) at DTU)  
+[5a Diffeomorphisms for Dummies and Augmentations for Awesommies](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20) (Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/), Associate professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys), DTU)  
 [5b Stochastic Variational Inference](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5b-Stochastic_Variational_Inference) (Lecturer: [Rasmus Bonnevie](http://www2.compute.dtu.dk/~rabo/), PhD researcher at DTU)  
 
 #### Special thank to the organizer [Morten Mørup](http://www.mortenmorup.dk/), Associate Professor, Ph.D at DTU.

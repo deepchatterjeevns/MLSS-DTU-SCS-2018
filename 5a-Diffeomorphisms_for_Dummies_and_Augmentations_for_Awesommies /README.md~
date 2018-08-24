@@ -1,6 +1,6 @@
 # Diffeomorphisms for Dummies and Augmentations for Awesommies 
 
-Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/), Associate professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys) at DTU
+Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/), Associate professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys), DTU
 
 Contents:
 * [Data augmentation sohau](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20/data_augmentation_sohau)

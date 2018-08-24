@@ -1,6 +1,6 @@
 # Introduction to Deep Learning with PyTorch
 
-Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys) at DTU
+Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at [SCS](http://www.compute.dtu.dk/english/research/cogsys), DTU
 
 Slides:
 * Introduction are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_1Introduction.pdf).
