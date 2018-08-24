@@ -3,7 +3,7 @@
 Lecturer: [Prof. Soren Hauberg](http://www2.compute.dtu.dk/~sohau/)  
 
 Contents:
-* [Data augmentation sohau](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20/data_augmentation_sohau).  
+* [Data augmentation sohau](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20/data_augmentation_sohau)
 
 Slides [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/5a-Diffeomorphisms_for_Dummies_and_Augmentations_for_Awesommies%20/data_augmentation_sohau/slides.svg).  
 
