@@ -2,6 +2,9 @@
 
 Lecturer: [Prof. Aki Vehtari](https://users.aalto.fi/~ave/), Associate professor at Aalto University, Visiting professor at DTU
 
+Contents:
+* [Bayesian Data Analysis demos for Python](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/3-Introduction_to_PyStan/BDA_py_demos)
+
 #### [Bayesian Data Analysis demos for Python](http://www.stat.columbia.edu/~gelman/book/) is in [BDA_py_demos](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/3-Introduction_to_PyStan/BDA_py_demos) directory.  
 It is taken from [GitHub](https://github.com/avehtari/BDA_py_demos) page of the course developed by Aki Vehtari.  
 * [Basic models](https://github.com/avehtari/BDA_py_demos/blob/master/demos_pystan/pystan_demo.ipynb)  
