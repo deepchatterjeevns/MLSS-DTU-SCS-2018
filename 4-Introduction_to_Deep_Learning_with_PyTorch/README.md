@@ -3,10 +3,10 @@
 Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at Section for Cognitive Systems of DTU
 
 Slides:
-* 1 Introduction are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_1Introduction.pdf).
-* 2 FFNN are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_2FFNN.pdf).
-* 3 CNN are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_3CNN.pdf).
-* 4 Tricks of the trade are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_4TricksOfTheTrade.pdf).
+* Introduction are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_1Introduction.pdf).
+* FFNN are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_2FFNN.pdf).
+* CNN are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_3CNN.pdf).
+* Tricks of the trade are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/02901DeepLearning_4TricksOfTheTrade.pdf).
 
 Some instructions are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/owinther.pdf).
 
