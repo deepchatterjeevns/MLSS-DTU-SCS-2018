@@ -1,6 +1,6 @@
 # Introduction to Deep Learning with PyTorch
 
-Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/)  
+Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/), Professor at Section for Cognitive Systems of DTU
 
 #### Additional materials:  
 * [02456 Deep Learning](https://github.com/kabartay/MLSS-DTU-SCS-2018/tree/master/4-Introduction_to_Deep_Learning_with_PyTorch/02456-deep-learning) course is taken from [GitHub](https://github.com/DeepLearningDTU/02456-deep-learning) page of the course following the instructions [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/4-Introduction_to_Deep_Learning_with_PyTorch/owinther.pdf).  
@@ -12,5 +12,5 @@ Lecturer: [Prof. Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/)
 * OS Linux, Python 3.6, CUDA 9.0:  
   * *conda install pytorch torchvision -c pytorch*  
 
-Useful playground: [A Neural Network Playground](https://playground.tensorflow.org)
+#### Useful playground: [A Neural Network Playground](https://playground.tensorflow.org)
 
