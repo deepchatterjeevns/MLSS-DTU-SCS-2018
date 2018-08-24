@@ -2,7 +2,7 @@
 
 Lecturer: [Adam Paszke](https://github.com/apaszke?tab=repositories), Student at Univeristy of Warsaw
 
-Slides [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/2-Introduction_to_PyTorch/slides.pdf).
+Slides are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/2-Introduction_to_PyTorch/slides.pdf).
 
 #### Session:
 * Morning [link](colab.research.google.com/drive/1jlG2BgdAW0okt763IJoaNWK5N4GxHoxl).  
